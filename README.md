@@ -1,4 +1,4 @@
-# context-as-asset
+# context-as-an-asset
 
 A starter kit for the **Context as an Asset** workflow: a five-level
 document hierarchy (BDR -> ADR -> Plan -> Codebase -> Logs) that keeps

@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-Condensed rules for the Context-as-Asset workflow. The full rulebook lives
+Condensed rules for the Context as an Asset workflow. The full rulebook lives
 in `AGENTS.md`; this file carries the operational core. All repo artifacts
 (records, plans, logs, code, comments, commits) are written in English.
 
