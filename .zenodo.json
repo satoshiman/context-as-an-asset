@@ -1,0 +1,14 @@
+{
+  "title": "context-as-an-asset: templates, agent rules and tools",
+  "upload_type": "software",
+  "description": "Templates (BDR, ADR, Plan), agent rules and event-log tooling accompanying 'Context as an Asset: A Document Hierarchy for Auditable and Governable Developer-Agent Collaboration'.",
+  "creators": [
+    {
+      "name": "Truong, Ngoc-Vuong",
+      "affiliation": "University of Information Technology, VNU-HCM, Ho Chi Minh City, Vietnam",
+      "orcid": "0009-0000-0560-774X"
+    }
+  ],
+  "license": "MIT",
+  "keywords": ["coding agents", "context engineering", "developer-agent collaboration", "software engineering"]
+}
